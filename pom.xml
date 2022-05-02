@@ -66,7 +66,7 @@
         <embedded.testcontainers.version>2.1.8</embedded.testcontainers.version>
         <flyway.version>8.5.9</flyway.version>
         <git-commit-id-plugin.version>4.0.4</git-commit-id-plugin.version>
-        <grpc-spring-boot.version>2.11.0.RELEASE</grpc-spring-boot.version>
+        <grpc-spring-boot.version>2.13.1.RELEASE</grpc-spring-boot.version>
         <grpc.version>1.46.0</grpc.version>
         <guava.version>31.1-jre</guava.version>
         <headlong.version>6.1.1</headlong.version>
